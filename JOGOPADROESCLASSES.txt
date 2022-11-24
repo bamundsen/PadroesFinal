@@ -1,0 +1,36 @@
+Classes:
+abstract Personagem
+abstract Evento
+abstract Final
+
+Guerreiro(Personagem)
+Mago(Personagem)
+Ladino(Personagem)
+Clérigo(Personagem)
+
+Enigma(Evento)
+Força(Evento)
+Combate(Evento)
+Fatalidade(Evento)
+
+Perfeito(Final)
+Bom(Final)
+Limite(Final)
+Tragedia(Final)
+
+Item()
+Narrativa()
+
+----------------------------------------------------------------------------------------------------
+GUERREIRO
+Um herói robusto e corajoso, assumindo a vanguarda na batalha para destruir seus inimigos com sua força e resistindo a ferimentos que matariam uma pessoa comum. O guerreiro luta com sua lança de duas mãos que é capaz de perfurar os inimigos com agilidade enquanto mantém a flexibilidade de seu corpo, mas também seu estilo de escudo grande com espada longa permite com que ele lute e se defenda, abrindo mão de sua velocidade e da potência dos golpes. 
+O guerreiro possui a Tenacidade, que faz com que ele consiga resistir a danos em uma forma defensiva quando ele evita atacar, mas para situações que exigam velocidade ele é capaz de realizar sua Investida lendária, atingindo velocidades sobrehumanas.
+A quintessência do guerreiro é sua Força, capaz de realizar feitos com a força de dez homens.
+
+MAGO
+O mago é um herói inteligente, astuto e poderoso, especializado em combate à distância por conta de sua fragilidade de uma pessoa comum, compensada pelo poder mágico capaz de destruir grupos inteiros de inimigos, fruto de anos de estudos das artes arcanas. O mago encontra uma boa estratégia para evitar entrar em combate direto, pois isso pode ser seu fim.
+Suas magias mais destrutivas são os Mísseis Arcanos, capazes de atingir um único alvo a distâncias longas, porém deixando o mago vulnerável caso conjurados a pouca distância. A Bola de Fogo é a magia mais destrutiva do mago, capaz de eliminar grupos inteiros de inimigos com uma poderosa chama, entretanto usar essa magia em locais fechados ou contra grupos próximos pode causar danos ao próprio mago por conta do raio destrutivo da explosão.
+Para controle, o mago dispõe da magia Sono, capaz de colocar grupos de criaturas para dormir em um sono mágico que nenhum som é alto o bastante para os despertar. Com a sua Telecinese ele consegue apanhar itens à distância e até repelir inimigos em um gesto ágil.
+A quintessência do mago é o Conhecimento, com uma boa análise o mago é capaz de contornar desafios impossíveis.
+
+LADINO
